@@ -8,7 +8,7 @@ Check out the tutorial series:
 https://www.youtube.com/playlist?list=PL7Ej6SUky135IAAR3PFCFyiVwanauRqj3
 
 This is the first tutorial:
-https://www.youtube.com/watch?v=luuyjjOxnUI&list=PL7Ej6SUky135IAAR3PFCFyiVwanauRqj3
+https://www.youtube.com/watch?v=luuyjjOxnUI
 
 The final result on Itch.io:
 https://danzaidan.itch.io/pong-learn-programming
